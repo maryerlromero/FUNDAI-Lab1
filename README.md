@@ -1,6 +1,6 @@
 # FUNDAI-Lab1
 
-#FUNDAI Laboratory Outputs
+# FUNDAI Laboratory Outputs
 
 ## Student Information
 - Name: MARY ERLIANCHE B. ROMERO
